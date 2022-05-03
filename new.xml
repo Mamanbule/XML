@@ -1,4 +1,9 @@
-bio
-name Dima Kovalchuk
-age 31
+<?xml version="1.0" encoding="UTF-8"?>
+<test>
+    <name>Kovalchuk Dima</name>
+    <age>31</age>
+    <pets>1</pets>
+    <salary>700 usd</salary>
+</test>
 
+    
